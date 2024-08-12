@@ -15,5 +15,3 @@ torchvision==0.18.1
 tqdm==4.66.4
 filterpy==1.4.5
 scikit-image==0.24.0
-#lap==0.4.0
-#lap05==0.5.1
